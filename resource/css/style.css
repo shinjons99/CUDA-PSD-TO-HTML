@@ -100,7 +100,7 @@ h3{
 *! Header Section
 **/
 header{
-background:linear-gradient( rgba(135,80,157, 0.9), rgba(135, 80, 156,0.9)), url(/resource/css/img/hero-bg.jpg);
+background:linear-gradient( rgba(135,80,157, 0.9), rgba(135, 80, 156,0.9)), url('/resource/css/img/hero-bg.jpg');
 background-repeat: no-repeat;
 background-position: center center;
 background-size: cover;
@@ -203,7 +203,7 @@ margin-top: 4rem;
 **/
 .services-section{
     color: #fff;
-    background: linear-gradient(rgba(23, 194, 164,0.9),rgba(23, 194, 164,0.9)),url(/resource/css/img/services-bg.jpg);
+    background: linear-gradient(rgba(23, 194, 164,0.9),rgba(23, 194, 164,0.9)),url('/resource/css/img/services-bg.jpg');
     text-align: center;
     background-size: cover;
     background-position: center top;
@@ -222,7 +222,7 @@ margin-top: 4rem;
 *!Team Section
 **/
 .team-section{
-    background: linear-gradient( rgba(231, 241, 248,0.9),rgba(231, 241, 248,0.9) ),url(/resource/css/img/team-bg.jpg);
+    background: linear-gradient( rgba(231, 241, 248,0.9),rgba(231, 241, 248,0.9) ),url('/resource/css/img/team-bg.jpg');
     text-align: center;
     background-size: cover;
     background-position: center top;
@@ -291,7 +291,7 @@ margin-top: 4rem;
 *!Skill Section
 **/
 .skill-section{
-    background:linear-gradient(rgba(255, 255, 255,0.9),rgba(255, 255, 255,0.9)) , url(/resource/css/img/skill-bg.jpg);
+    background:linear-gradient(rgba(255, 255, 255,0.9),rgba(255, 255, 255,0.9)) , url('/resource/css/img/skill-bg.jpg');
   color: #3c4761;
     text-align: center;
     background-size: cover;
@@ -313,7 +313,7 @@ margin-top: 4rem;
 *!Portfolio Section
 **/
 .portfolio-section{
-    background: linear-gradient(rgba(255, 221, 153,0.9),rgba(255, 221, 153,0.9)),url(/resource/css/img/portfolio-bg.jpg);
+    background: linear-gradient(rgba(255, 221, 153,0.9),rgba(255, 221, 153,0.9)),url('/resource/css/img/portfolio-bg.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -366,7 +366,7 @@ margin-top: 4rem;
 *!Work (Testimonial) Section
 **/
 .testimonial{
-    background:linear-gradient(rgba(215, 70, 128,0.9),rgba(215, 70, 128,0.9)), url(/resource/css/img/testimonial-bg.jpg);
+    background:linear-gradient(rgba(215, 70, 128,0.9),rgba(215, 70, 128,0.9)), url('/resource/css/img/testimonial-bg.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -422,7 +422,7 @@ float: left;
 *!contact Section
 **/
 .contact-section{
-    background: linear-gradient(rgba(60, 84, 154,0.9),rgba(60, 84, 154,0.9)),url(/resource/css/img/contact-bg.jpg);
+    background: linear-gradient(rgba(60, 84, 154,0.9),rgba(60, 84, 154,0.9)),url('/resource/css/img/contact-bg.jpg');
     text-align: center;
     background-repeat: no-repeat;
     background-size: cover;
